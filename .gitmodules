@@ -1,3 +1,6 @@
 [submodule "styling"]
 	path = styling
 	url = https://github.com/learningsreleased/styling.git
+[submodule "flex"]
+	path = flex
+	url = https://github.com/learningsreleased/flex-template.git

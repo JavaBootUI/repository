@@ -7,3 +7,6 @@
 [submodule "advancedjavascriptls"]
 	path = advancedjavascriptls
 	url = http://github.com/learningsreleased/advancedjavascript.git
+[submodule "cssgridlines"]
+	path = cssgridlines
+	url = https://github.com/JavaBootUI/cssgridlines.git

@@ -10,3 +10,6 @@
 [submodule "cssgridlines"]
 	path = cssgridlines
 	url = https://github.com/JavaBootUI/cssgridlines.git
+[submodule "cssgridls"]
+	path = cssgridls
+	url = https://github.com/JavaBootUI/cssgridlines.git
